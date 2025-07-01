@@ -45,4 +45,4 @@ Once activated and configured, the plugin can be used in two ways:
 2.  **Automatic Mode:** Navigate to **TrendRank AI Lite > Settings**. Define your website's niche, fill the "Topic Queue" with initial ideas, choose a schedule, and check "Enable Automation Engine". The plugin will then work automatically in the background, generating new topics and posts.
 
 ---
-*This plugin was developed as a collaborative project.* Powered by www.triple.ma
+*This plugin was developed as a collaborative project.* Powered by www.triplew.ma
