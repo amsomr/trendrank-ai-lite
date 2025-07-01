@@ -1,0 +1,23 @@
+# WordPress
+/wp-content/uploads/
+/wp-content/upgrade/
+/wp-content/backup-db/
+/wp-content/cache/
+/wp-content/backups/
+/wp-content/advanced-cache.php
+/wp-content/wp-cache-config.php
+/wp-config.php
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Log files
+*.log
+npm-debug.log
+yarn-error.log
+
+# Dependency directories
+/node_modules/
+/vendor/
